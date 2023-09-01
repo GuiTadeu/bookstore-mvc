@@ -1,4 +1,4 @@
-# Bookstore - Casa do Código
+# Bookstore
  
 ## Funcionalidade #01
 - [x] Você criou a URI  `/relatorio-produtos`?
